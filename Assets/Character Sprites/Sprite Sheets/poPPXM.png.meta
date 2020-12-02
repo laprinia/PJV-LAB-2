@@ -1,0 +1,1532 @@
+fileFormatVersion: 2
+guid: 105c0daf0c97dee4a9c13abd7b2005f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6476507425057507806
+    second: poPPXM_0
+  - first:
+      213: -195218754946563767
+    second: poPPXM_1
+  - first:
+      213: -84662653609758494
+    second: poPPXM_2
+  - first:
+      213: 4363264484452574892
+    second: poPPXM_3
+  - first:
+      213: 4862619435969860508
+    second: poPPXM_4
+  - first:
+      213: 8211241107900247047
+    second: poPPXM_5
+  - first:
+      213: -8920606155311091002
+    second: poPPXM_6
+  - first:
+      213: 2844046503845563609
+    second: poPPXM_7
+  - first:
+      213: -2458093417546492091
+    second: poPPXM_8
+  - first:
+      213: 4122166835859258166
+    second: poPPXM_9
+  - first:
+      213: 4629130250029142018
+    second: poPPXM_10
+  - first:
+      213: -7919305348214574143
+    second: poPPXM_11
+  - first:
+      213: -3112644960911251436
+    second: poPPXM_12
+  - first:
+      213: -7090368272783498129
+    second: poPPXM_13
+  - first:
+      213: -6184398114039228440
+    second: poPPXM_14
+  - first:
+      213: 5045686815720344140
+    second: poPPXM_15
+  - first:
+      213: -8864510524378220441
+    second: poPPXM_16
+  - first:
+      213: 7181807892947211941
+    second: poPPXM_17
+  - first:
+      213: -7407002017415915271
+    second: poPPXM_18
+  - first:
+      213: -3246992279413133581
+    second: poPPXM_19
+  - first:
+      213: -2250525385456100985
+    second: poPPXM_20
+  - first:
+      213: -6257574004933242357
+    second: poPPXM_21
+  - first:
+      213: -3336052952410703762
+    second: poPPXM_22
+  - first:
+      213: 610835523183724375
+    second: poPPXM_23
+  - first:
+      213: 6968897687891277157
+    second: poPPXM_24
+  - first:
+      213: 7519794500194337249
+    second: poPPXM_25
+  - first:
+      213: -980810920396921892
+    second: poPPXM_26
+  - first:
+      213: -6578383006529276033
+    second: poPPXM_27
+  - first:
+      213: 7882805492319972666
+    second: poPPXM_28
+  - first:
+      213: 2500926708520140515
+    second: poPPXM_29
+  - first:
+      213: 2727095642950878787
+    second: poPPXM_30
+  - first:
+      213: -2875575861832655679
+    second: poPPXM_31
+  - first:
+      213: -3029007151791441843
+    second: poPPXM_32
+  - first:
+      213: 5306043891849853740
+    second: poPPXM_33
+  - first:
+      213: 2029661290798332515
+    second: poPPXM_34
+  - first:
+      213: 2436222535119708249
+    second: poPPXM_35
+  - first:
+      213: -8656205354122964916
+    second: poPPXM_36
+  - first:
+      213: -5178231829960296928
+    second: poPPXM_37
+  - first:
+      213: 6407041111777873071
+    second: poPPXM_38
+  - first:
+      213: 7981298434424540297
+    second: poPPXM_39
+  - first:
+      213: 6194631482380955188
+    second: poPPXM_40
+  - first:
+      213: 9143831742953895351
+    second: poPPXM_41
+  - first:
+      213: 8194065139216133624
+    second: poPPXM_42
+  - first:
+      213: -8166243760837776119
+    second: poPPXM_43
+  - first:
+      213: -183308459485962658
+    second: poPPXM_44
+  - first:
+      213: -9091861959812028657
+    second: poPPXM_45
+  - first:
+      213: 8133720989991565320
+    second: poPPXM_46
+  - first:
+      213: -8847069042985768182
+    second: poPPXM_47
+  - first:
+      213: 4273220981121488582
+    second: poPPXM_48
+  - first:
+      213: 2809014532041102786
+    second: poPPXM_49
+  - first:
+      213: 100144854195927987
+    second: poPPXM_50
+  - first:
+      213: 2411905964844731511
+    second: poPPXM_51
+  - first:
+      213: 5033674732762477680
+    second: poPPXM_52
+  - first:
+      213: 6035915722553287842
+    second: poPPXM_53
+  - first:
+      213: 4267770292012868317
+    second: poPPXM_54
+  - first:
+      213: 6144365494999478621
+    second: poPPXM_55
+  - first:
+      213: 3120965212190615288
+    second: poPPXM_56
+  - first:
+      213: -357299143330064490
+    second: poPPXM_57
+  - first:
+      213: 1720183793210971221
+    second: poPPXM_58
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: poPPXM_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 252
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22674489fc2de16a0800000000000000
+      internalID: -6476507425057507806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 252
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9418ae1a3917a4df0800000000000000
+      internalID: -195218754946563767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 252
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e039ddd3c733def0800000000000000
+      internalID: -84662653609758494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 252
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6afd85eed6d8c30800000000000000
+      internalID: 4363264484452574892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 248
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93d4ee1d9e7b7340800000000000000
+      internalID: 4862619435969860508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 252
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70caa79584034f170800000000000000
+      internalID: 8211241107900247047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 252
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2f48317f3a33480800000000000000
+      internalID: -8920606155311091002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 248
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc08621a35187720800000000000000
+      internalID: 2844046503845563609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 196
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5475a6e6f0913edd0800000000000000
+      internalID: -2458093417546492091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_9
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 196
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b7944a5e0e43930800000000000000
+      internalID: 4122166835859258166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 196
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200900caf69fd3040800000000000000
+      internalID: 4629130250029142018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_11
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 196
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3b1db7eb9f81290800000000000000
+      internalID: -7919305348214574143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 196
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418a9f846e9adc4d0800000000000000
+      internalID: -3112644960911251436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_13
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 196
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f642a0e4f93f99d90800000000000000
+      internalID: -7090368272783498129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 196
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7981f7eaa9c2aa0800000000000000
+      internalID: -6184398114039228440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_15
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 196
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a02eafc61e50640800000000000000
+      internalID: 5045686815720344140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 152
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76879bee4aeeaf480800000000000000
+      internalID: -8864510524378220441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_17
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 152
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a617305a38eaa360800000000000000
+      internalID: 7181807892947211941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 152
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8925db8ea053990800000000000000
+      internalID: -7407002017415915271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 152
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fee425a9bd50f2d0800000000000000
+      internalID: -3246992279413133581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 132
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789d3e1f51784c0e0800000000000000
+      internalID: -2250525385456100985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_21
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 132
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b025c38b891a829a0800000000000000
+      internalID: -6257574004933242357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 132
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68baa3d385f3b1d0800000000000000
+      internalID: -3336052952410703762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_23
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 132
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7574e870caf1a7800800000000000000
+      internalID: 610835523183724375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_24
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 132
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565fcca368f76b060800000000000000
+      internalID: 6968897687891277157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_25
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 132
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e10500a14dab5860800000000000000
+      internalID: 7519794500194337249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 132
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3eae91aa57362f0800000000000000
+      internalID: -980810920396921892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 104
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f773b536283e4b4a0800000000000000
+      internalID: -6578383006529276033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_28
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 104
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dea3394d9556d60800000000000000
+      internalID: 7882805492319972666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_29
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee31a6479315b220800000000000000
+      internalID: 2500926708520140515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_30
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3464a9ad90798d520800000000000000
+      internalID: 2727095642950878787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_31
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccd6c63df6e718d0800000000000000
+      internalID: -2875575861832655679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_32
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d487a573b0ec6f5d0800000000000000
+      internalID: -3029007151791441843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b77589ecad2a940800000000000000
+      internalID: 5306043891849853740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_34
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a356cb03eca2c10800000000000000
+      internalID: 2029661290798332515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_35
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 124
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950ac9fec733fc120800000000000000
+      internalID: 2436222535119708249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_36
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c409aacc71bfed780800000000000000
+      internalID: -8656205354122964916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_37
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 120
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026789a06993328b0800000000000000
+      internalID: -5178231829960296928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_38
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 116
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac08d8f1f16ae850800000000000000
+      internalID: 6407041111777873071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_39
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 84
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c814ea3a443ce60800000000000000
+      internalID: 7981298434424540297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_40
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 76
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ea4cd3380c7f550800000000000000
+      internalID: 6194631482380955188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_41
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 76
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b535bc268a65ee70800000000000000
+      internalID: 9143831742953895351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_42
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 56
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fda36184da27b170800000000000000
+      internalID: 8194065139216133624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_43
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 72
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90da30ee09cabae80800000000000000
+      internalID: -8166243760837776119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_44
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 72
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ed3046de1c47df0800000000000000
+      internalID: -183308459485962658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_45
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 72
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f076482e7b733d180800000000000000
+      internalID: -9091861959812028657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_46
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 68
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808f5966528c0e070800000000000000
+      internalID: 8133720989991565320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_47
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 56
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b6a754495e83580800000000000000
+      internalID: -8847069042985768182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_48
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 68
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c61e7287d78d4b30800000000000000
+      internalID: 4273220981121488582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_49
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 56
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5583785df9bf620800000000000000
+      internalID: 2809014532041102786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_50
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 64
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb7e6cd639c36100800000000000000
+      internalID: 100144854195927987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_51
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 56
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c473a32bfc87120800000000000000
+      internalID: 2411905964844731511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_52
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 56
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074ba29ff743bd540800000000000000
+      internalID: 5033674732762477680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_53
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 56
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4ebf8be51e3c350800000000000000
+      internalID: 6035915722553287842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_54
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 8
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2646e087a2a3b30800000000000000
+      internalID: 4267770292012868317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_55
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d517c9b0ddb254550800000000000000
+      internalID: 6144365494999478621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f629fc2355ef4b20800000000000000
+      internalID: 3120965212190615288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_57
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697924b725e9a0bf0800000000000000
+      internalID: -357299143330064490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poPPXM_58
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 100
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55459b6cb025fd710800000000000000
+      internalID: 1720183793210971221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

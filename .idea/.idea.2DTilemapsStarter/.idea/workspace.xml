@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="881f1670-a7c7-4373-934a-b237a39ed34c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/Downloads/.ptmp56A073/ProceduralPatterns2D-master/Assets/Global Scripts/MapFunctions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/.ptmp56A073/ProceduralPatterns2D-master/Assets/Global Scripts/LevelGenerator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/ProceduralPatterns2D-master/Assets/Global Scripts/MapSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/ProceduralPatterns2D-master/Assets/Global Scripts/MapFunctions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/ProceduralPatterns2D-master/Assets/Global Scripts/LevelGenerator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ProjectileBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Desktop/ProceduralPatterns2D-master/Assets/Global Scripts/LevelGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/ProceduralGenetation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Procedural Generator.cs" />
+        <option value="$PROJECT_DIR$/Assets/ProceduralGeneration.cs" />
+        <option value="$PROJECT_DIR$/Assets/Generation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Follow Camera.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FollowCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/BackgroundAnimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GenerationType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Generation.cs" />
+        <option value="$PROJECT_DIR$/Assets/PennyPixel/Scripts/PlayerPlatformerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Healthbar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/ProjectileBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BasicEnemyScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScoreScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ProjectileBehaviour.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kSZRB7BYXUUwpBD4bCSyNVkTFK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="881f1670-a7c7-4373-934a-b237a39ed34c" name="Default Changelist" comment="" />
+      <created>1605695947095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605695947095</updated>
+      <workItem from="1605695957662" duration="625000" />
+      <workItem from="1605708428189" duration="2113000" />
+      <workItem from="1605713327328" duration="1699000" />
+      <workItem from="1605715606969" duration="1706000" />
+      <workItem from="1605731456876" duration="741000" />
+      <workItem from="1605785022703" duration="1976000" />
+      <workItem from="1605808803066" duration="5449000" />
+      <workItem from="1605815502200" duration="5603000" />
+      <workItem from="1605986017305" duration="3392000" />
+      <workItem from="1605989563520" duration="4729000" />
+      <workItem from="1606483347162" duration="12429000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
