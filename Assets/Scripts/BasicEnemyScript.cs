@@ -8,17 +8,13 @@ public class BasicEnemyScript : MonoBehaviour
     public Animator Animator;
     public Transform Player;
     public float MoveSpeed = 0.4f;
-    public int MaxDist = 5;
-    public int MinDist = 2;
+    public int maxDistanceToShoot = 5;
+    public int minDistanceToFollow = 2;
     private float horizontalMove = 0f;
     public bool hasProjectiles = false;
     public GameObject projectile;
     public Transform shootPoint;
-    private SpriteRenderer SpriteRenderer;
-    private void Awake()
-    {
-        SpriteRenderer = this.GetComponent<SpriteRenderer>();
-    }
+    
 
     void Update()
     {
@@ -33,11 +29,11 @@ public class BasicEnemyScript : MonoBehaviour
         Vector2 playerXAxis;
         playerXAxis = new Vector2(Player.position.x, Player.position.y);
 
-
-        if (Vector3.Distance(transform.position, Player.position) >= MinDist)
+        float distanceToPlayer=Vector3.Distance(transform.position, Player.position);
+        if (distanceToPlayer>= minDistanceToFollow)
         {
             transform.position = Vector2.MoveTowards(transform.position, playerXAxis, MoveSpeed * Time.deltaTime);
-            if (Vector3.Distance(transform.position, Player.position) <= MaxDist)
+            if (Vector3.Distance(transform.position, Player.position) <= maxDistanceToShoot)
             {
                 Animator.SetInteger("State", 1);
                 if (hasProjectiles && allowFire)
