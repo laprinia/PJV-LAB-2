@@ -42,10 +42,14 @@ public class Player : MonoBehaviour
         }else if (collider.gameObject.name.Equals("Fire Elemental"))
         {
             ScoreScript.scoreValue += 1;
-        }else if (collider.gameObject.name.Equals("Golem"))
+        }else if (collider.gameObject.tag.Equals("Golem"))
         {
             ScoreScript.scoreValue += 1;
-            StartCoroutine(collider.gameObject.GetComponent<PeacefulEnemyScript>().DeathCoroutine());
+            if (collider.gameObject.GetComponent<PeacefulEnemyScript>() != null)
+            { 
+                StartCoroutine(collider.gameObject.GetComponent<PeacefulEnemyScript>().DeathCoroutine());
+            }
+            
         }
     }
 }

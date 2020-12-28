@@ -20,11 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5c3f6e4-9079-478d-bbb4-aca3d4088961" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Character Sprites/Animations/Golem Idle.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Character Sprites/Animations/Golem Idle.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PJV LAB 2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PJV LAB 2/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PJV LAB 2/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PJV LAB 2/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PJV LAB 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PJV LAB 2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Character Sprites/Animations/Golem.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Character Sprites/Animations/Golem.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PeacefulEnemyScript.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PeacefulEnemyScript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/PennyPixel Variant.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/PennyPixel Variant.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/RuleTile.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/RuleTile.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/TilemapStart.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/TilemapStart.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/BasicEnemyScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BasicEnemyScript.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,15 +41,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/PeacefulEnemyScript.cs" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/PeacefulEnemyScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ProjectileBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PeacefulEnemyScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BasicEnemyScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FollowCamera.cs" />
       </list>
     </option>
   </component>
@@ -87,7 +96,11 @@
       <workItem from="1607349175518" duration="619000" />
       <workItem from="1607352097307" duration="570000" />
       <workItem from="1608056866846" duration="24000" />
-      <workItem from="1608056937847" duration="5061000" />
+      <workItem from="1608056937847" duration="6284000" />
+      <workItem from="1608110631070" duration="1431000" />
+      <workItem from="1608114626308" duration="6212000" />
+      <workItem from="1608122899444" duration="677000" />
+      <workItem from="1609180821121" duration="425000" />
     </task>
     <servers />
   </component>
@@ -103,6 +116,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />

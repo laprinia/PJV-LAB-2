@@ -258,7 +258,6 @@
             <e p="Rotate.cs" t="Include" />
           </e>
         </e>
-        <e p="PeacefulEnemyScript.cs" t="Include" />
         <e p="PennyPixel" t="Include">
           <e p="Scripts" t="Include">
             <e p="PhysicsObject.cs" t="Include" />
@@ -269,9 +268,11 @@
           <e p="BackgroundAnimation.cs" t="Include" />
           <e p="BasicEnemyScript.cs" t="Include" />
           <e p="FollowCamera.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
           <e p="Generation.cs" t="Include" />
           <e p="GenerationFunction.cs" t="Include" />
           <e p="Healthbar.cs" t="Include" />
+          <e p="PeacefulEnemyScript.cs" t="Include" />
           <e p="Player.cs" t="Include" />
           <e p="ProjectileBehaviour.cs" t="Include" />
           <e p="ScoreScript.cs" t="Include" />
